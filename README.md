@@ -1,2 +1,2 @@
 # findlongest
-program find line longgest in file.
+program find line longest in file.
